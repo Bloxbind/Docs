@@ -21,9 +21,11 @@ Currently two main setting groups exist: Auto Verification and Naming Scheme.
   - Symbols:
     - @
     - \#
+    - |
     - ( )
     - " "
     - ' '
+    - < >
 
 ### Example
 
