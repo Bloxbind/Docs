@@ -28,6 +28,7 @@ export default defineConfig({
         items: [
           { text: "Getting Started", link: "/" },
           { text: "FAQ", link: "/faq/" },
+          { text: "Team", link: "/team/" },
           { text: "Changelog", link: "/changelog/" },
         ],
       },
