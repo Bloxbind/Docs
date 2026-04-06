@@ -5,7 +5,7 @@ export default defineConfig({
   description:
     "Welcome to the Bloxbind documentation where we will go over how to setup and configure Bloxbind for your community.",
   sitemap: {
-    hostname: 'https://example.com',
+    hostname: 'https://docs.bloxbind.com',
     lastmodDateOnly: false
   },
   themeConfig: {
