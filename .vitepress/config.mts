@@ -4,8 +4,12 @@ export default defineConfig({
   title: "Bloxbind Documentation",
   description: "Welcome to the Bloxbind documentation where we will go over how to setup and configure Bloxbind for your community.",
   themeConfig: {
-    nav: [
-    ],
+    siteTitle: "Bloxbind Documentation",
+
+    editLink: {
+      pattern: 'https://github.com/bloxbind/main/edit/dev/:path',
+      text: 'Edit this page on GitHub'
+    },
 
     sidebar: [
       {
