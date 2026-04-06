@@ -18,7 +18,9 @@ The verification role is the role that will be assigned to users who are verifie
 
 ### Example Setup Command
 
-`/setup verification_role:@Verified verification_channel:#rules`
+```
+/setup verification_role:@Verified verification_channel:#rules
+```
 
 ## Required permissions & notes
 
