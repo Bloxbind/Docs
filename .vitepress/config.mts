@@ -36,9 +36,11 @@ export default defineConfig({
         text: "Settings",
         collapsed: false,
         items: [
-          { text: "Naming Scheme", link: "/naming/" },
           { text: "Auto Verification", link: "/autoverif/" },
+          { text: "Naming Scheme", link: "/naming/" },
           { text: "Role Links", link: "/rolelinks/" },
+          { text: "Remove Roles", link: "/removeroles/" },
+          { text: "Minimum Account Age", link: "/minaccountage/" },
         ],
       },
     ],
