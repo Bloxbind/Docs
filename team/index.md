@@ -10,7 +10,7 @@ import {
 
 const members = [
   {
-    avatar: 'https://cdn.discordapp.com/avatars/714860155183038495/dd8debea94188edb4708069d0ae3b560.webp?size=512',
+    avatar: 'https://cdn.discordapp.com/avatars/714860155183038495/d39ea26f96e725a4f1b537b3c9faa289.webp?size=512',
     name: 'Bocon',
     title: 'Project Lead, Back-end, Hosting',
     links: [
