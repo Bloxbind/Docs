@@ -2,7 +2,7 @@
 
 Welcome to the Bloxbind documentation where we will go over how to setup and configure Bloxbind for your community.
 
-Firstly, you will need to invite the bot to your discord server which can be done [here](https://discord.com/oauth2/authorize?client_id=1126292255930601482)!
+Firstly, you will need to invite the bot to your discord server which can be done by [Clicking Here](https://discord.com/oauth2/authorize?client_id=1126292255930601482)!
 
 ## Beginning Setup
 
@@ -18,7 +18,9 @@ The verification role is the role that will be assigned to users who are verifie
 
 ### Example Setup Command
 
-`/setup verification_role:@Verified verification_channel:#rules`
+```txt
+/setup verification_role:@Verified verification_channel:#rules
+```
 
 ## Required permissions & notes
 

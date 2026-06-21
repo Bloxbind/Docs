@@ -76,3 +76,118 @@ Quick hotfix to address some issues we have seen since release.
 
 - When signing up users accounts would not be created.
 - Deleting accounts was not working.
+
+## [1.1.1] - 2025-09-27 - Bot
+
+### Fixed
+
+- Bug with the settings command being deprecated.
+
+## [1.2.0] - 2025-10-12 - Bot
+
+### Added
+
+- The `/me` command now always displays the user's profile picture.
+- The bot can now remove roles during verification if the option is enabled.
+
+### Fixed
+
+- Improved error handling.
+- General maintenance and bug fixes.
+
+## [1.2.0] - 2025-10-12 - Website
+
+### Added
+
+- Jack O' Lantern for Halloween.
+- Thanks page (may be removed).
+- New server settings option to enable and use Remove Role(s).
+
+### Changed
+
+- Updated profile pictures.
+
+### Fixed
+
+- General maintenance and bug fixes.
+
+## [1.2.1] - 2025-11-13 - Website
+
+### Added
+
+- The support server is now linked in Header / Navigation Bar.
+- A little help tip for the naming scheme.
+
+### Changed
+
+- Added new character options to the naming scheme "|" and "<>".
+- Jack O' Lantern Removed.
+
+### Fixed
+
+- General maintenance and bug fixes.
+
+## [1.3.0] - 2026-1-03 - Website
+
+### Added
+
+- Support for linking a Roblox group to a server.
+- Support for linking Roblox group ranks and Discord roles.
+- A cute holiday snow effect.
+
+### Changed
+
+- Navigation updated to include documentation links.
+- Improved rate-limiting responses.
+- Updated robots.txt.
+
+### Fixed
+
+- Change the display of Total Members from "Users" to "Members".
+- Minor UI/UX adjustments around group management and validation feedback.
+- Duplicated items in the settings page.
+- Security & Performance fixes.
+
+## [1.3.0] - 2026-1-03 - Bot
+
+### Changed
+
+- Slash Command & Button logic for the new group ranks system.
+
+## [1.3.1] - 2026-3-28 - Website
+
+### Changed
+
+- The dashboard now has been condensed to make it easier.
+- Removed the snow effect.
+- Fixed the team profile pictures.
+
+### Fixed
+
+- Fixed Roblox unlinking issue on profile page.
+- Security Improvements.
+
+## [1.4.0] - 2026-3-31 - Website
+
+### Added
+
+- Minimum Account Age Verification Feature.
+
+### Changed
+
+- Privacy policy updated.
+
+### Fixed
+
+- Dashboard UI Issues.
+
+## [1.4.0] - 2026-3-31 - Bot
+
+### Added
+
+- Minimum Account Age Verification Feature.
+
+### Fixed
+
+- Issues with crashing on certain interactions.
+- Timeouts on commands causing no result to be returned.
