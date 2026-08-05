@@ -20,7 +20,7 @@ const members = [
     ]
   },
     {
-    avatar: 'https://cdn.discordapp.com/avatars/700425671146471435/5eae136eb229019a9e18d6277859d4da.webp?size=512',
+    avatar: 'https://cdn.discordapp.com/avatars/700425671146471435/777ec24f6f283a7cde9322cf5358db39.webp?size=512',
     name: 'Noobyguy775',
     title: 'Front-end, Design',
     links: [
